@@ -1,3 +1,6 @@
-[gd_scene format=3 uid="uid://dyk4r8wva8oy8"]
+[gd_scene load_steps=2 format=3 uid="uid://dyk4r8wva8oy8"]
+
+[ext_resource type="Script" path="res://ray_yang.gd" id="1_kdem8"]
 
 [node name="RayYang" type="Node"]
+script = ExtResource("1_kdem8")
